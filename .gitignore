@@ -5,6 +5,7 @@
 __pycache__
 db.sqlite3
 media
+mainapp/dataset/books.csv.
 
 # Backup files #
 *.bak
@@ -12,6 +13,8 @@ media
 # If you are using PyCharm #
 # User-specific stuff
 .idea/**/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
